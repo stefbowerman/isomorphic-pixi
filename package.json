@@ -1,0 +1,42 @@
+{
+  "_from": "isomorphic-pixi",
+  "_id": "isomorphic-pixi@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-RhvfIg5bb7ua1rk0mvBOAh3A628=",
+  "_location": "/isomorphic-pixi",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "isomorphic-pixi",
+    "name": "isomorphic-pixi",
+    "escapedName": "isomorphic-pixi",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/isomorphic-pixi/-/isomorphic-pixi-0.1.0.tgz",
+  "_shasum": "461bdf220e5b6fbb9ad6b9349af04e021dc0eb6f",
+  "_spec": "isomorphic-pixi",
+  "_where": "/Users/stefan/Documents/Name Date/Site",
+  "browser": "pixi.js",
+  "bugs": {
+    "url": "https://github.com/stefbowerman/isomorphic-pixi/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A wrapper for Pixi.js for isomorphic sites - Only loads PIXI in the browser",
+  "homepage": "https://github.com/stefbowerman/isomorphic-pixi#readme",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "isomorphic-pixi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefbowerman/isomorphic-pixi.git"
+  },
+  "version": "0.1.0"
+}
